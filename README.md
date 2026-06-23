@@ -1,19 +1,19 @@
 # Java OOP Fundamentals
 
-A Java practice project focused on core Object-Oriented Programming concepts such as classes, objects, constructors, constructor overloading, constructor chaining, encapsulation, getter methods, setter methods, and basic validation logic.
+A Java fundamentals project focused on core Object-Oriented Programming concepts such as classes, objects, constructors, constructor overloading, constructor chaining, encapsulation, getter methods, setter methods, and basic validation logic.
 
 ## Overview
 
-This project was developed as a hands-on Java fundamentals project to practice Object-Oriented Programming with simple class-based examples.
+This project demonstrates foundational Java OOP concepts through simple and clear class-based examples.
 
-The project includes two main practice classes:
+The project includes two main classes:
 
 * `Person`
 * `Wall`
 
-The main focus was understanding how objects are created, how constructors work, how class fields are managed, and how simple validation logic can be implemented inside Java classes.
+The main focus is understanding how objects are created, how constructors initialize object state, how class fields are managed, and how validation logic can be placed inside class methods.
 
-## Core Concepts Practiced
+## Core Concepts
 
 * Java classes and objects
 * Instance variables
@@ -31,7 +31,7 @@ The main focus was understanding how objects are created, how constructors work,
 
 ### Person Class
 
-The `Person` class practices basic object modeling.
+The `Person` class demonstrates basic object modeling.
 
 Main fields include:
 
@@ -50,7 +50,7 @@ The `isTeen()` method checks whether the person's age is between 13 and 19.
 
 ### Wall Class
 
-The `Wall` class practices encapsulation, setters, and simple validation.
+The `Wall` class demonstrates encapsulation, setters, and simple validation.
 
 Main fields include:
 
@@ -99,7 +99,7 @@ height= 0.0
 area= 0.0
 ```
 
-## What I Practiced
+## What This Project Demonstrates
 
 * Creating Java classes
 * Creating multiple objects from the same class
@@ -138,8 +138,9 @@ mvn test
 
 ## Notes
 
-This project was built as a Java fundamentals training project.
-The main focus was not building a full application, but practicing core OOP concepts through small, clear Java class examples.
+This repository focuses on core Java OOP concepts through small class-based examples.
+
+The main purpose is to demonstrate understanding of object creation, constructors, encapsulation, validation, and simple method design.
 
 ## Repository
 
